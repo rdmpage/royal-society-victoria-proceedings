@@ -1,0 +1,530 @@
+<structMap xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" TYPE="PHYSICAL" ID="DTL1">
+        <div xmlns:xlink="http://www.w3.org/TR/xlink" ID="DTL2" ORDER="1" TYPE="journal" LABEL="Proceedings of the Royal Society of Victoria [1933]. Vol. XLVI (New Series). Part I">
+            <div ID="DTL3" ORDER="2" TYPE="entry" LABEL="Proceedings of the Royal Society of Victoria [1933]. Vol. XLVI (New Series). Part I">
+                <fptr ID="DTL139" FILEID="PDF1"/>
+                <fptr ID="DTL140" FILEID="HTML1"/>
+            </div>
+            <div ID="DTL4" ORDER="3" TYPE="entry" LABEL="[Printer&apos;s note]">
+                <fptr ID="DTL141" FILEID="PDF2"/>
+                <fptr ID="DTL142" FILEID="HTML2"/>
+            </div>
+            <div ID="DTL5" ORDER="4" TYPE="entry" LABEL="Memorandum for Authors">
+                <fptr ID="DTL143" FILEID="PDF3"/>
+                <fptr ID="DTL144" FILEID="HTML3"/>
+            </div>
+            <div ID="DTL6" ORDER="5" TYPE="entry" LABEL="Contents of Volume XLVI, Part I">
+                <fptr ID="DTL145" FILEID="PDF4"/>
+                <fptr ID="DTL146" FILEID="HTML4"/>
+            </div>
+            <div ID="DTL7" ORDER="6" TYPE="entry" LABEL="An investigation of the bacterial pollution of the waters of Port Phillip Bay with special reference to the effluents from the Melbourne and Metropolitan Sewage Farm near Werribee">
+                <div ID="DTL16" ORDER="7" TYPE="entry" LABEL="Page [1]">
+                    <fptr ID="DTL147" FILEID="PDF5"/>
+                    <fptr ID="DTL148" FILEID="HTML5"/>
+                </div>
+                <div ID="DTL17" ORDER="8" TYPE="entry" LABEL="Page 2">
+                    <fptr ID="DTL149" FILEID="PDF6"/>
+                    <fptr ID="DTL150" FILEID="HTML6"/>
+                </div>
+                <div ID="DTL18" ORDER="9" TYPE="entry" LABEL="Page 3">
+                    <fptr ID="DTL151" FILEID="PDF7"/>
+                    <fptr ID="DTL152" FILEID="HTML7"/>
+                </div>
+                <div ID="DTL19" ORDER="10" TYPE="entry" LABEL="Page 4">
+                    <fptr ID="DTL153" FILEID="PDF8"/>
+                    <fptr ID="DTL154" FILEID="HTML8"/>
+                </div>
+                <div ID="DTL20" ORDER="11" TYPE="entry" LABEL="Page 5">
+                    <fptr ID="DTL155" FILEID="PDF9"/>
+                    <fptr ID="DTL156" FILEID="HTML9"/>
+                </div>
+                <div ID="DTL21" ORDER="12" TYPE="entry" LABEL="Page 6">
+                    <fptr ID="DTL157" FILEID="PDF10"/>
+                    <fptr ID="DTL158" FILEID="HTML10"/>
+                </div>
+                <div ID="DTL22" ORDER="13" TYPE="entry" LABEL="Page 7">
+                    <fptr ID="DTL159" FILEID="PDF11"/>
+                    <fptr ID="DTL160" FILEID="HTML11"/>
+                </div>
+                <div ID="DTL23" ORDER="14" TYPE="entry" LABEL="Page 8">
+                    <fptr ID="DTL161" FILEID="PDF12"/>
+                    <fptr ID="DTL162" FILEID="HTML12"/>
+                </div>
+                <div ID="DTL24" ORDER="15" TYPE="entry" LABEL="Page 9">
+                    <fptr ID="DTL163" FILEID="PDF13"/>
+                    <fptr ID="DTL164" FILEID="HTML13"/>
+                </div>
+                <div ID="DTL25" ORDER="16" TYPE="entry" LABEL="Page 10">
+                    <fptr ID="DTL165" FILEID="PDF14"/>
+                    <fptr ID="DTL166" FILEID="HTML14"/>
+                </div>
+                <div ID="DTL26" ORDER="17" TYPE="entry" LABEL="Page 11">
+                    <fptr ID="DTL167" FILEID="PDF15"/>
+                    <fptr ID="DTL168" FILEID="HTML15"/>
+                </div>
+                <div ID="DTL27" ORDER="18" TYPE="entry" LABEL="Page 12">
+                    <fptr ID="DTL169" FILEID="PDF16"/>
+                    <fptr ID="DTL170" FILEID="HTML16"/>
+                </div>
+                <div ID="DTL28" ORDER="19" TYPE="entry" LABEL="Page 13">
+                    <fptr ID="DTL171" FILEID="PDF17"/>
+                    <fptr ID="DTL172" FILEID="HTML17"/>
+                </div>
+                <div ID="DTL29" ORDER="20" TYPE="entry" LABEL="Page 14">
+                    <fptr ID="DTL173" FILEID="PDF18"/>
+                    <fptr ID="DTL174" FILEID="HTML18"/>
+                </div>
+                <div ID="DTL30" ORDER="21" TYPE="entry" LABEL="Page 15">
+                    <fptr ID="DTL175" FILEID="PDF19"/>
+                    <fptr ID="DTL176" FILEID="HTML19"/>
+                </div>
+                <div ID="DTL31" ORDER="22" TYPE="entry" LABEL="Page 16">
+                    <fptr ID="DTL177" FILEID="PDF20"/>
+                    <fptr ID="DTL178" FILEID="HTML20"/>
+                </div>
+                <div ID="DTL32" ORDER="23" TYPE="entry" LABEL="Page 17">
+                    <fptr ID="DTL179" FILEID="PDF21"/>
+                    <fptr ID="DTL180" FILEID="HTML21"/>
+                </div>
+                <div ID="DTL33" ORDER="24" TYPE="entry" LABEL="Page 18">
+                    <fptr ID="DTL181" FILEID="PDF22"/>
+                    <fptr ID="DTL182" FILEID="HTML22"/>
+                </div>
+                <div ID="DTL34" ORDER="25" TYPE="entry" LABEL="Page 19">
+                    <fptr ID="DTL183" FILEID="PDF23"/>
+                    <fptr ID="DTL184" FILEID="HTML23"/>
+                </div>
+            </div>
+            <div ID="DTL8" ORDER="26" TYPE="entry" LABEL="Australian Hydrophilidae - Notes and new species, No. 2">
+                <div ID="DTL35" ORDER="27" TYPE="entry" LABEL="Page 20">
+                    <fptr ID="DTL185" FILEID="PDF24"/>
+                    <fptr ID="DTL186" FILEID="HTML24"/>
+                </div>
+                <div ID="DTL36" ORDER="28" TYPE="entry" LABEL="Page 21">
+                    <fptr ID="DTL187" FILEID="PDF25"/>
+                    <fptr ID="DTL188" FILEID="HTML25"/>
+                </div>
+                <div ID="DTL37" ORDER="29" TYPE="entry" LABEL="Page 22">
+                    <fptr ID="DTL189" FILEID="PDF26"/>
+                    <fptr ID="DTL190" FILEID="HTML26"/>
+                </div>
+                <div ID="DTL38" ORDER="30" TYPE="entry" LABEL="Page 23">
+                    <fptr ID="DTL191" FILEID="PDF27"/>
+                    <fptr ID="DTL192" FILEID="HTML27"/>
+                </div>
+                <div ID="DTL39" ORDER="31" TYPE="entry" LABEL="Page 24">
+                    <fptr ID="DTL193" FILEID="PDF28"/>
+                    <fptr ID="DTL194" FILEID="HTML28"/>
+                </div>
+                <div ID="DTL40" ORDER="32" TYPE="entry" LABEL="Page 25">
+                    <fptr ID="DTL195" FILEID="PDF29"/>
+                    <fptr ID="DTL196" FILEID="HTML29"/>
+                </div>
+                <div ID="DTL41" ORDER="33" TYPE="entry" LABEL="Page 26">
+                    <fptr ID="DTL197" FILEID="PDF30"/>
+                    <fptr ID="DTL198" FILEID="HTML30"/>
+                </div>
+                <div ID="DTL42" ORDER="34" TYPE="entry" LABEL="Page 27">
+                    <fptr ID="DTL199" FILEID="PDF31"/>
+                    <fptr ID="DTL200" FILEID="HTML31"/>
+                </div>
+            </div>
+            <div ID="DTL9" ORDER="35" TYPE="entry" LABEL="Three species of the genus Prasophyllum R. Br.">
+                <div ID="DTL43" ORDER="36" TYPE="entry" LABEL="Page 28">
+                    <fptr ID="DTL201" FILEID="PDF32"/>
+                    <fptr ID="DTL202" FILEID="HTML32"/>
+                </div>
+                <div ID="DTL44" ORDER="37" TYPE="entry" LABEL="Page 29">
+                    <fptr ID="DTL203" FILEID="PDF33"/>
+                    <fptr ID="DTL204" FILEID="HTML33"/>
+                </div>
+                <div ID="DTL45" ORDER="38" TYPE="entry" LABEL="Page 30">
+                    <fptr ID="DTL205" FILEID="PDF34"/>
+                    <fptr ID="DTL206" FILEID="HTML34"/>
+                </div>
+                <div ID="DTL46" ORDER="39" TYPE="entry" LABEL="Page 31">
+                    <fptr ID="DTL207" FILEID="PDF35"/>
+                    <fptr ID="DTL208" FILEID="HTML35"/>
+                </div>
+                <div ID="DTL47" ORDER="40" TYPE="entry" LABEL="Page 32">
+                    <fptr ID="DTL209" FILEID="PDF36"/>
+                    <fptr ID="DTL210" FILEID="HTML36"/>
+                </div>
+                <div ID="DTL48" ORDER="41" TYPE="entry" LABEL="Page 33">
+                    <fptr ID="DTL211" FILEID="PDF37"/>
+                    <fptr ID="DTL212" FILEID="HTML37"/>
+                </div>
+                <div ID="DTL49" ORDER="42" TYPE="entry" LABEL="Page 34">
+                    <fptr ID="DTL213" FILEID="PDF38"/>
+                    <fptr ID="DTL214" FILEID="HTML38"/>
+                </div>
+                <div ID="DTL50" ORDER="43" TYPE="entry" LABEL="Page 35">
+                    <fptr ID="DTL215" FILEID="PDF39"/>
+                    <fptr ID="DTL216" FILEID="HTML39"/>
+                </div>
+            </div>
+            <div ID="DTL10" ORDER="44" TYPE="entry" LABEL="Notes on Porotermes and Calotermes (Isoptera) from the Australian region, with descriptions of new species">
+                <div ID="DTL51" ORDER="45" TYPE="entry" LABEL="Page 36">
+                    <fptr ID="DTL217" FILEID="PDF40"/>
+                    <fptr ID="DTL218" FILEID="HTML40"/>
+                </div>
+                <div ID="DTL52" ORDER="46" TYPE="entry" LABEL="Page 37">
+                    <fptr ID="DTL219" FILEID="PDF41"/>
+                    <fptr ID="DTL220" FILEID="HTML41"/>
+                </div>
+                <div ID="DTL53" ORDER="47" TYPE="entry" LABEL="Page 38">
+                    <fptr ID="DTL221" FILEID="PDF42"/>
+                    <fptr ID="DTL222" FILEID="HTML42"/>
+                </div>
+                <div ID="DTL54" ORDER="48" TYPE="entry" LABEL="Page 39">
+                    <fptr ID="DTL223" FILEID="PDF43"/>
+                    <fptr ID="DTL224" FILEID="HTML43"/>
+                </div>
+                <div ID="DTL55" ORDER="49" TYPE="entry" LABEL="Page 40">
+                    <fptr ID="DTL225" FILEID="PDF44"/>
+                    <fptr ID="DTL226" FILEID="HTML44"/>
+                </div>
+                <div ID="DTL56" ORDER="50" TYPE="entry" LABEL="Page 41">
+                    <fptr ID="DTL227" FILEID="PDF45"/>
+                    <fptr ID="DTL228" FILEID="HTML45"/>
+                </div>
+                <div ID="DTL57" ORDER="51" TYPE="entry" LABEL="Page 42">
+                    <fptr ID="DTL229" FILEID="PDF46"/>
+                    <fptr ID="DTL230" FILEID="HTML46"/>
+                </div>
+                <div ID="DTL58" ORDER="52" TYPE="entry" LABEL="Page 43">
+                    <fptr ID="DTL231" FILEID="PDF47"/>
+                    <fptr ID="DTL232" FILEID="HTML47"/>
+                </div>
+                <div ID="DTL59" ORDER="53" TYPE="entry" LABEL="Page 44">
+                    <fptr ID="DTL233" FILEID="PDF48"/>
+                    <fptr ID="DTL234" FILEID="HTML48"/>
+                </div>
+                <div ID="DTL60" ORDER="54" TYPE="entry" LABEL="Page 45">
+                    <fptr ID="DTL235" FILEID="PDF49"/>
+                    <fptr ID="DTL236" FILEID="HTML49"/>
+                </div>
+                <div ID="DTL61" ORDER="55" TYPE="entry" LABEL="Page 46">
+                    <fptr ID="DTL237" FILEID="PDF50"/>
+                    <fptr ID="DTL238" FILEID="HTML50"/>
+                </div>
+                <div ID="DTL62" ORDER="56" TYPE="entry" LABEL="Page 47">
+                    <fptr ID="DTL239" FILEID="PDF51"/>
+                    <fptr ID="DTL240" FILEID="HTML51"/>
+                </div>
+                <div ID="DTL63" ORDER="57" TYPE="entry" LABEL="Page 48">
+                    <fptr ID="DTL241" FILEID="PDF52"/>
+                    <fptr ID="DTL242" FILEID="HTML52"/>
+                </div>
+                <div ID="DTL64" ORDER="58" TYPE="entry" LABEL="Page 49">
+                    <fptr ID="DTL243" FILEID="PDF53"/>
+                    <fptr ID="DTL244" FILEID="HTML53"/>
+                </div>
+                <div ID="DTL65" ORDER="59" TYPE="entry" LABEL="Page 50">
+                    <fptr ID="DTL245" FILEID="PDF54"/>
+                    <fptr ID="DTL246" FILEID="HTML54"/>
+                </div>
+                <div ID="DTL66" ORDER="60" TYPE="entry" LABEL="Page 51">
+                    <fptr ID="DTL247" FILEID="PDF55"/>
+                    <fptr ID="DTL248" FILEID="HTML55"/>
+                </div>
+                <div ID="DTL67" ORDER="61" TYPE="entry" LABEL="Page 53">
+                    <fptr ID="DTL249" FILEID="PDF56"/>
+                    <fptr ID="DTL250" FILEID="HTML56"/>
+                </div>
+            </div>
+            <div ID="DTL11" ORDER="62" TYPE="entry" LABEL="On a gigantic polyzoan referable to Lichenopora, from the Miocene of Airey&apos;s Inlet, Victoria">
+                <div ID="DTL68" ORDER="63" TYPE="entry" LABEL="Page 55">
+                    <fptr ID="DTL251" FILEID="PDF57"/>
+                    <fptr ID="DTL252" FILEID="HTML57"/>
+                </div>
+                <div ID="DTL69" ORDER="64" TYPE="entry" LABEL="Page 56">
+                    <fptr ID="DTL253" FILEID="PDF58"/>
+                    <fptr ID="DTL254" FILEID="HTML58"/>
+                </div>
+                <div ID="DTL70" ORDER="65" TYPE="entry" LABEL="Page 57">
+                    <fptr ID="DTL255" FILEID="PDF59"/>
+                    <fptr ID="DTL256" FILEID="HTML59"/>
+                </div>
+                <div ID="DTL71" ORDER="66" TYPE="entry" LABEL="Page 59">
+                    <fptr ID="DTL257" FILEID="PDF60"/>
+                    <fptr ID="DTL258" FILEID="HTML60"/>
+                </div>
+            </div>
+            <div ID="DTL12" ORDER="67" TYPE="entry" LABEL="On fossiliferous grits and cherts, presumably of Cretaceous age, associated with the Nullagines of Western Australia">
+                <div ID="DTL72" ORDER="68" TYPE="entry" LABEL="Page 60">
+                    <fptr ID="DTL259" FILEID="PDF61"/>
+                    <fptr ID="DTL260" FILEID="HTML61"/>
+                </div>
+                <div ID="DTL73" ORDER="69" TYPE="entry" LABEL="Page 61">
+                    <fptr ID="DTL261" FILEID="PDF62"/>
+                    <fptr ID="DTL262" FILEID="HTML62"/>
+                </div>
+                <div ID="DTL74" ORDER="70" TYPE="entry" LABEL="Page 62">
+                    <fptr ID="DTL263" FILEID="PDF63"/>
+                    <fptr ID="DTL264" FILEID="HTML63"/>
+                </div>
+                <div ID="DTL75" ORDER="71" TYPE="entry" LABEL="Page 64">
+                    <fptr ID="DTL265" FILEID="PDF64"/>
+                    <fptr ID="DTL266" FILEID="HTML64"/>
+                </div>
+                <div ID="DTL76" ORDER="72" TYPE="entry" LABEL="Page 65">
+                    <fptr ID="DTL267" FILEID="PDF65"/>
+                    <fptr ID="DTL268" FILEID="HTML65"/>
+                </div>
+            </div>
+            <div ID="DTL13" ORDER="73" TYPE="entry" LABEL="New and rare Tertiary Molluscs from deep borings in Gippsland, Victoria">
+                <div ID="DTL77" ORDER="74" TYPE="entry" LABEL="Page 66">
+                    <fptr ID="DTL269" FILEID="PDF66"/>
+                    <fptr ID="DTL270" FILEID="HTML66"/>
+                </div>
+                <div ID="DTL78" ORDER="75" TYPE="entry" LABEL="Page 67">
+                    <fptr ID="DTL271" FILEID="PDF67"/>
+                    <fptr ID="DTL272" FILEID="HTML67"/>
+                </div>
+                <div ID="DTL79" ORDER="76" TYPE="entry" LABEL="Page 68">
+                    <fptr ID="DTL273" FILEID="PDF68"/>
+                    <fptr ID="DTL274" FILEID="HTML68"/>
+                </div>
+                <div ID="DTL80" ORDER="77" TYPE="entry" LABEL="Page 69">
+                    <fptr ID="DTL275" FILEID="PDF69"/>
+                    <fptr ID="DTL276" FILEID="HTML69"/>
+                </div>
+                <div ID="DTL81" ORDER="78" TYPE="entry" LABEL="Page 70">
+                    <fptr ID="DTL277" FILEID="PDF70"/>
+                    <fptr ID="DTL278" FILEID="HTML70"/>
+                </div>
+                <div ID="DTL82" ORDER="79" TYPE="entry" LABEL="Page 71">
+                    <fptr ID="DTL279" FILEID="PDF71"/>
+                    <fptr ID="DTL280" FILEID="HTML71"/>
+                </div>
+                <div ID="DTL83" ORDER="80" TYPE="entry" LABEL="Page 72">
+                    <fptr ID="DTL281" FILEID="PDF72"/>
+                    <fptr ID="DTL282" FILEID="HTML72"/>
+                </div>
+                <div ID="DTL84" ORDER="81" TYPE="entry" LABEL="Page 73">
+                    <fptr ID="DTL283" FILEID="PDF73"/>
+                    <fptr ID="DTL284" FILEID="HTML73"/>
+                </div>
+                <div ID="DTL85" ORDER="82" TYPE="entry" LABEL="Page 74">
+                    <fptr ID="DTL285" FILEID="PDF74"/>
+                    <fptr ID="DTL286" FILEID="HTML74"/>
+                </div>
+                <div ID="DTL86" ORDER="83" TYPE="entry" LABEL="Page 75">
+                    <fptr ID="DTL287" FILEID="PDF75"/>
+                    <fptr ID="DTL288" FILEID="HTML75"/>
+                </div>
+                <div ID="DTL87" ORDER="84" TYPE="entry" LABEL="Page 76">
+                    <fptr ID="DTL289" FILEID="PDF76"/>
+                    <fptr ID="DTL290" FILEID="HTML76"/>
+                </div>
+                <div ID="DTL88" ORDER="85" TYPE="entry" LABEL="Page 77">
+                    <fptr ID="DTL291" FILEID="PDF77"/>
+                    <fptr ID="DTL292" FILEID="HTML77"/>
+                </div>
+            </div>
+            <div ID="DTL14" ORDER="86" TYPE="entry" LABEL="Isograptus caduceus and its allies in Victoria">
+                <div ID="DTL89" ORDER="87" TYPE="entry" LABEL="Page 79">
+                    <fptr ID="DTL293" FILEID="PDF78"/>
+                    <fptr ID="DTL294" FILEID="HTML78"/>
+                </div>
+                <div ID="DTL90" ORDER="88" TYPE="entry" LABEL="Page 80">
+                    <fptr ID="DTL295" FILEID="PDF79"/>
+                    <fptr ID="DTL296" FILEID="HTML79"/>
+                </div>
+                <div ID="DTL91" ORDER="89" TYPE="entry" LABEL="Page 81">
+                    <fptr ID="DTL297" FILEID="PDF80"/>
+                    <fptr ID="DTL298" FILEID="HTML80"/>
+                </div>
+                <div ID="DTL92" ORDER="90" TYPE="entry" LABEL="Page 82">
+                    <fptr ID="DTL299" FILEID="PDF81"/>
+                    <fptr ID="DTL300" FILEID="HTML81"/>
+                </div>
+                <div ID="DTL93" ORDER="91" TYPE="entry" LABEL="Page 83">
+                    <fptr ID="DTL301" FILEID="PDF82"/>
+                    <fptr ID="DTL302" FILEID="HTML82"/>
+                </div>
+                <div ID="DTL94" ORDER="92" TYPE="entry" LABEL="Page 84">
+                    <fptr ID="DTL303" FILEID="PDF83"/>
+                    <fptr ID="DTL304" FILEID="HTML83"/>
+                </div>
+                <div ID="DTL95" ORDER="93" TYPE="entry" LABEL="Page 85">
+                    <fptr ID="DTL305" FILEID="PDF84"/>
+                    <fptr ID="DTL306" FILEID="HTML84"/>
+                </div>
+                <div ID="DTL96" ORDER="94" TYPE="entry" LABEL="Page 86">
+                    <fptr ID="DTL307" FILEID="PDF85"/>
+                    <fptr ID="DTL308" FILEID="HTML85"/>
+                </div>
+                <div ID="DTL97" ORDER="95" TYPE="entry" LABEL="Page 87">
+                    <fptr ID="DTL309" FILEID="PDF86"/>
+                    <fptr ID="DTL310" FILEID="HTML86"/>
+                </div>
+                <div ID="DTL98" ORDER="96" TYPE="entry" LABEL="Page 88">
+                    <fptr ID="DTL311" FILEID="PDF87"/>
+                    <fptr ID="DTL312" FILEID="HTML87"/>
+                </div>
+                <div ID="DTL99" ORDER="97" TYPE="entry" LABEL="Page 89">
+                    <fptr ID="DTL313" FILEID="PDF88"/>
+                    <fptr ID="DTL314" FILEID="HTML88"/>
+                </div>
+                <div ID="DTL100" ORDER="98" TYPE="entry" LABEL="Page 90">
+                    <fptr ID="DTL315" FILEID="PDF89"/>
+                    <fptr ID="DTL316" FILEID="HTML89"/>
+                </div>
+                <div ID="DTL101" ORDER="99" TYPE="entry" LABEL="Page 91">
+                    <fptr ID="DTL317" FILEID="PDF90"/>
+                    <fptr ID="DTL318" FILEID="HTML90"/>
+                </div>
+                <div ID="DTL102" ORDER="100" TYPE="entry" LABEL="Page 92">
+                    <fptr ID="DTL319" FILEID="PDF91"/>
+                    <fptr ID="DTL320" FILEID="HTML91"/>
+                </div>
+                <div ID="DTL103" ORDER="101" TYPE="entry" LABEL="Page 93">
+                    <fptr ID="DTL321" FILEID="PDF92"/>
+                    <fptr ID="DTL322" FILEID="HTML92"/>
+                </div>
+                <div ID="DTL104" ORDER="102" TYPE="entry" LABEL="Page 94">
+                    <fptr ID="DTL323" FILEID="PDF93"/>
+                    <fptr ID="DTL324" FILEID="HTML93"/>
+                </div>
+                <div ID="DTL105" ORDER="103" TYPE="entry" LABEL="Page 95">
+                    <fptr ID="DTL325" FILEID="PDF94"/>
+                    <fptr ID="DTL326" FILEID="HTML94"/>
+                </div>
+                <div ID="DTL106" ORDER="104" TYPE="entry" LABEL="Page 96">
+                    <fptr ID="DTL327" FILEID="PDF95"/>
+                    <fptr ID="DTL328" FILEID="HTML95"/>
+                </div>
+                <div ID="DTL107" ORDER="105" TYPE="entry" LABEL="Page 97">
+                    <fptr ID="DTL329" FILEID="PDF96"/>
+                    <fptr ID="DTL330" FILEID="HTML96"/>
+                </div>
+                <div ID="DTL108" ORDER="106" TYPE="entry" LABEL="Page 98">
+                    <fptr ID="DTL331" FILEID="PDF97"/>
+                    <fptr ID="DTL332" FILEID="HTML97"/>
+                </div>
+                <div ID="DTL109" ORDER="107" TYPE="entry" LABEL="Page 99">
+                    <fptr ID="DTL333" FILEID="PDF98"/>
+                    <fptr ID="DTL334" FILEID="HTML98"/>
+                </div>
+                <div ID="DTL110" ORDER="108" TYPE="entry" LABEL="Page 100">
+                    <fptr ID="DTL335" FILEID="PDF99"/>
+                    <fptr ID="DTL336" FILEID="HTML99"/>
+                </div>
+                <div ID="DTL111" ORDER="109" TYPE="entry" LABEL="Page 101">
+                    <fptr ID="DTL337" FILEID="PDF100"/>
+                    <fptr ID="DTL338" FILEID="HTML100"/>
+                </div>
+                <div ID="DTL112" ORDER="110" TYPE="entry" LABEL="Page 102">
+                    <fptr ID="DTL339" FILEID="PDF101"/>
+                    <fptr ID="DTL340" FILEID="HTML101"/>
+                </div>
+                <div ID="DTL113" ORDER="111" TYPE="entry" LABEL="Page 103">
+                    <fptr ID="DTL341" FILEID="PDF102"/>
+                    <fptr ID="DTL342" FILEID="HTML102"/>
+                </div>
+                <div ID="DTL114" ORDER="112" TYPE="entry" LABEL="Page 104">
+                    <fptr ID="DTL343" FILEID="PDF103"/>
+                    <fptr ID="DTL344" FILEID="HTML103"/>
+                </div>
+                <div ID="DTL115" ORDER="113" TYPE="entry" LABEL="Page 105">
+                    <fptr ID="DTL345" FILEID="PDF104"/>
+                    <fptr ID="DTL346" FILEID="HTML104"/>
+                </div>
+                <div ID="DTL116" ORDER="114" TYPE="entry" LABEL="Page 106">
+                    <fptr ID="DTL347" FILEID="PDF105"/>
+                    <fptr ID="DTL348" FILEID="HTML105"/>
+                </div>
+                <div ID="DTL117" ORDER="115" TYPE="entry" LABEL="Page 107">
+                    <fptr ID="DTL349" FILEID="PDF106"/>
+                    <fptr ID="DTL350" FILEID="HTML106"/>
+                </div>
+                <div ID="DTL118" ORDER="116" TYPE="entry" LABEL="Page 108">
+                    <fptr ID="DTL351" FILEID="PDF107"/>
+                    <fptr ID="DTL352" FILEID="HTML107"/>
+                </div>
+                <div ID="DTL119" ORDER="117" TYPE="entry" LABEL="Page 109">
+                    <fptr ID="DTL353" FILEID="PDF108"/>
+                    <fptr ID="DTL354" FILEID="HTML108"/>
+                </div>
+                <div ID="DTL120" ORDER="118" TYPE="entry" LABEL="Page 110">
+                    <fptr ID="DTL355" FILEID="PDF109"/>
+                    <fptr ID="DTL356" FILEID="HTML109"/>
+                </div>
+                <div ID="DTL121" ORDER="119" TYPE="entry" LABEL="Page 111">
+                    <fptr ID="DTL357" FILEID="PDF110"/>
+                    <fptr ID="DTL358" FILEID="HTML110"/>
+                </div>
+                <div ID="DTL122" ORDER="120" TYPE="entry" LABEL="Page 112">
+                    <fptr ID="DTL359" FILEID="PDF111"/>
+                    <fptr ID="DTL360" FILEID="HTML111"/>
+                </div>
+                <div ID="DTL123" ORDER="121" TYPE="entry" LABEL="Page 113">
+                    <fptr ID="DTL361" FILEID="PDF112"/>
+                    <fptr ID="DTL362" FILEID="HTML112"/>
+                </div>
+                <div ID="DTL124" ORDER="122" TYPE="entry" LABEL="Page 114">
+                    <fptr ID="DTL363" FILEID="PDF113"/>
+                    <fptr ID="DTL364" FILEID="HTML113"/>
+                </div>
+                <div ID="DTL125" ORDER="123" TYPE="entry" LABEL="Page 115">
+                    <fptr ID="DTL365" FILEID="PDF114"/>
+                    <fptr ID="DTL366" FILEID="HTML114"/>
+                </div>
+            </div>
+            <div ID="DTL15" ORDER="124" TYPE="entry" LABEL="Ecological studies in Victoria - Pt. II. The Fern Gully">
+                <div ID="DTL126" ORDER="125" TYPE="entry" LABEL="Page 117">
+                    <fptr ID="DTL367" FILEID="PDF115"/>
+                    <fptr ID="DTL368" FILEID="HTML115"/>
+                </div>
+                <div ID="DTL127" ORDER="126" TYPE="entry" LABEL="Page 118">
+                    <fptr ID="DTL369" FILEID="PDF116"/>
+                    <fptr ID="DTL370" FILEID="HTML116"/>
+                </div>
+                <div ID="DTL128" ORDER="127" TYPE="entry" LABEL="Page 119">
+                    <fptr ID="DTL371" FILEID="PDF117"/>
+                    <fptr ID="DTL372" FILEID="HTML117"/>
+                </div>
+                <div ID="DTL129" ORDER="128" TYPE="entry" LABEL="Page 120">
+                    <fptr ID="DTL373" FILEID="PDF118"/>
+                    <fptr ID="DTL374" FILEID="HTML118"/>
+                </div>
+                <div ID="DTL130" ORDER="129" TYPE="entry" LABEL="Page 121">
+                    <fptr ID="DTL375" FILEID="PDF119"/>
+                    <fptr ID="DTL376" FILEID="HTML119"/>
+                </div>
+                <div ID="DTL131" ORDER="130" TYPE="entry" LABEL="Page 122">
+                    <fptr ID="DTL377" FILEID="PDF120"/>
+                    <fptr ID="DTL378" FILEID="HTML120"/>
+                </div>
+                <div ID="DTL132" ORDER="131" TYPE="entry" LABEL="Page 123">
+                    <fptr ID="DTL379" FILEID="PDF121"/>
+                    <fptr ID="DTL380" FILEID="HTML121"/>
+                </div>
+                <div ID="DTL133" ORDER="132" TYPE="entry" LABEL="Page 124">
+                    <fptr ID="DTL381" FILEID="PDF122"/>
+                    <fptr ID="DTL382" FILEID="HTML122"/>
+                </div>
+                <div ID="DTL134" ORDER="133" TYPE="entry" LABEL="Page 125">
+                    <fptr ID="DTL383" FILEID="PDF123"/>
+                    <fptr ID="DTL384" FILEID="HTML123"/>
+                </div>
+                <div ID="DTL135" ORDER="134" TYPE="entry" LABEL="Page 126">
+                    <fptr ID="DTL385" FILEID="PDF124"/>
+                    <fptr ID="DTL386" FILEID="HTML124"/>
+                </div>
+                <div ID="DTL136" ORDER="135" TYPE="entry" LABEL="Page 127">
+                    <fptr ID="DTL387" FILEID="PDF125"/>
+                    <fptr ID="DTL388" FILEID="HTML125"/>
+                </div>
+                <div ID="DTL137" ORDER="136" TYPE="entry" LABEL="Page 128">
+                    <fptr ID="DTL389" FILEID="PDF126"/>
+                    <fptr ID="DTL390" FILEID="HTML126"/>
+                </div>
+                <div ID="DTL138" ORDER="137" TYPE="entry" LABEL="Page 129">
+                    <fptr ID="DTL391" FILEID="PDF127"/>
+                    <fptr ID="DTL392" FILEID="HTML127"/>
+                </div>
+            </div>
+        </div>
+    </structMap>
